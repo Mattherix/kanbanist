@@ -1,0 +1,8 @@
+[package]
+name = "kanbanist"
+version = "0.1.0"
+authors = ["Mattherix <mattherix@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+gtk = "0.9.2"
